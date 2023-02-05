@@ -328,6 +328,8 @@ System.out.println(webEngine.getUserAgent());
 
 3. 哈哈，进一步找到了 CEF 开源项目网址：[https://code.google.com/archive/p/chromiumembedded/](https://code.google.com/archive/p/chromiumembedded/)
 
+cef开源的新地址: [https://bitbucket.org/chromiumembedded/cef](https://bitbucket.org/chromiumembedded/cef)
+
 > ？？？ `google.com` ？？？这，能打开吗？
 > 事实证明，打不开！
 
